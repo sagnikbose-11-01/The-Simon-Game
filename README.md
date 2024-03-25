@@ -13,7 +13,7 @@ A replica of the classic arcade Simon game implemented as a web application. Sim
 - Generates random sequences of colors and sounds for players to memorize and repeat.
 - Tracks player's level and displays it on the screen.
 - Provides sound and visual feedback for correct and incorrect moves.
-- If you succeed, Simon adds another color to the sequence. If you fail, the game ends
+- If you succeed, Simon adds another color to the sequence. If you fail, the game ends.
 - When the game ends, you can restart it by pressing any key.
 
 
