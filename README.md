@@ -4,7 +4,7 @@ A replica of the classic arcade Simon game implemented as a web application. Sim
 
 ## Demo
 
-[View Demo](https://sagnikbose-11-01.github.io/Simon-Game/)
+[View Demo](https://the-simon-game-git-main-sagnikbose-11-01s-projects.vercel.app/)
 
 ## Features
 
